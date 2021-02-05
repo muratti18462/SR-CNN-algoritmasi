@@ -1,6 +1,4 @@
-"""yüksek çözünürlüklüye çevirme ilk kısım(optimazyon yok).ipynb
-
-
+#srcnn murat ilk kısım optimizasyon yok
 def save_images(data_path,save_path,size1,size2):
   data_path = glob.glob(data_path)
 
